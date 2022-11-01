@@ -25,15 +25,9 @@ class LSangari:
 if __name__ == '__main__':
     yo = LSangari()
 
-<html>
-    <head>
-    .center {
-        margin-left: auto;
-        margin-right: auto;
-        }    
-    </head>
 
-<table class="center">
+
+<table>
   <tbody >
     <tr valign="top">
       <td width="25%" align="center">
@@ -91,8 +85,6 @@ if __name__ == '__main__':
     </tr>
   </tbody>
 </table>
-
-<html>
 
 <!--
 **LSANGARI/lsangari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

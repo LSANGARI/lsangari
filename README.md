@@ -12,7 +12,7 @@ def __init__(self):
         'backend': ['Python', 'PHP', 'Django', 'Laravel'],
         'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
         'devops': ['Docker', 'Nginx', 'Apache'],
-        'tools': ['GIT', 'GitHub', 'GitLab'],
+        'tools': ['GIT', 'GitHub', 'GitLab', , 'Vs Code'],
         'misc': ['GNU/Linux', 'Microsoft Windows']
     }
     self.architecture = ['App Desktop', 'Cliente-Servidor', 'Web']

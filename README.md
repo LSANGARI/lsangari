@@ -69,8 +69,8 @@ if __name__ == '__main__':
         <img height="64px" src="https://www.svgrepo.com/show/373553/docker.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+        <span>Bash</span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/306105/gnubash.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>

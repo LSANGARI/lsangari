@@ -68,7 +68,7 @@ if __name__ == '__main__':
     <tr valign="top">
       <td width="25%" align="center">
         <span>Docker</span><br><br><br>
-        <img height="auto" src="https://www.svgrepo.com/show/376365/docker.svg">
+        <img height="auto" src="https://www.svgrepo.com/show/373553/docker.svg">
       </td>
       <td width="25%" align="center">
         <span>Bash</span><br><br><br>

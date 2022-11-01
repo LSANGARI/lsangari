@@ -70,7 +70,7 @@ if __name__ == '__main__':
       </td>
       <td width="25%" align="center">
         <span>Bash</span><br><br><br>
-        <img height="64px" src="https://www.svgrepo.com/show/306105/gnubash.svg">
+        <img height="64px" src="https://www.svgrepo.com/show/353478/bash-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>

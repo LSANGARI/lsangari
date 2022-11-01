@@ -27,8 +27,8 @@ if __name__ == '__main__':
 
 
 
-<table align="center>
-  <tbody>
+<table>
+  <tbody align="center>
     <tr valign="top">
       <td width="25%" align="center">
         <span>PHP</span><br><br><br>

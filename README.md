@@ -51,8 +51,8 @@ if __name__ == '__main__':
         <img height="64px" src="https://www.svgrepo.com/show/373669/html.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+        <span>Css</span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/373535/css.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>

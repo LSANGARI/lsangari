@@ -31,7 +31,7 @@ if __name__ == '__main__':
      margin-left: auto;
     margin-right: auto;
         }    
-    </header?
+    </header>
 
 <table class="center">
   <tbody >

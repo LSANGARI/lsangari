@@ -30,7 +30,7 @@ if __name__ == '__main__':
     <tr valign="top">
       <td width="25%" align="center">
         <span>PHP</span><br><br><br>
-        <img height="64px" src="![image](https://user-images.githubusercontent.com/53713168/199301727-61c19479-4fe9-4fc0-8e7a-634c23d71c7c.png)">
+        <img height="64px" src="https://user-images.githubusercontent.com/53713168/199301727-61c19479-4fe9-4fc0-8e7a-634c23d71c7c.png">
       </td>
       <td width="25%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>

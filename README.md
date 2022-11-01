@@ -26,12 +26,12 @@ if __name__ == '__main__':
     yo = LSangari()
 
 <html>
-    <header>
+    <head>
     .center {
-     margin-left: auto;
-    margin-right: auto;
+        margin-left: auto;
+        margin-right: auto;
         }    
-    </header>
+    </head>
 
 <table class="center">
   <tbody >

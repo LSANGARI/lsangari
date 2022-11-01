@@ -25,8 +25,8 @@ class LSangari:
 if __name__ == '__main__':
     yo = LSangari()
 
-<center>
-<table>
+
+<table class="center">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
@@ -84,7 +84,7 @@ if __name__ == '__main__':
     </tr>
   </tbody>
 </table>
-</center>
+
 
 
 <!--

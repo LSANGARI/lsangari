@@ -5,7 +5,7 @@ class LSangari:
 def __init__(self):
     self.username = 'LSangari'
     self.name = 'Leonardo Sangari'
-    self.web = '[https://www.linkedin.com/in/ing-leonardo-sangari-b0123b176/)'
+    self.web = 'https://www.linkedin.com/in/ing-leonardo-sangari-b0123b176/)'
     self.twitter = None
     self.code = {
         'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],

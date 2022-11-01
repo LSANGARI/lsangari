@@ -1,8 +1,5 @@
 <!-- ### Hi there 👋 -->
-
-
 class LSangari:
-
     def __init__(self):
         self.username = 'LSangari'
         self.name = 'Leonardo Sangari'
@@ -24,7 +21,6 @@ class LSangari:
 
 if __name__ == '__main__':
     yo = LSangari()
-
 
 
 <table>

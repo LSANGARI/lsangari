@@ -25,6 +25,10 @@ class LSangari:
 if __name__ == '__main__':
     yo = LSangari()
 
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
 
 <table class="center">
   <tbody>

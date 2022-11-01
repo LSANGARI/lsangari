@@ -54,7 +54,7 @@ if __name__ == '__main__':
       </td>
       <td width="25%" align="center">
         <span>Css</span><br><br><br>
-        <img height="auto" src="https://www.svgrepo.com/show/373535/css.svg">
+        <img height="auto" src="https://www.svgrepo.com/show/349330/css3.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>

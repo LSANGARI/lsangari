@@ -36,15 +36,15 @@ if __name__ == '__main__':
       </td>
       <td width="25%" align="center">
         <span>Larave</span><br><br><br>
-        <img height="64px" src="https://www.svgrepo.com/show/353985/laravel.svg">
+        <img height="auto" src="https://www.svgrepo.com/show/353985/laravel.svg">
       </td>
       <td width="25%" align="center">
         <span>Bootstrap</span><br><br><br>
-        <img height="64px" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg">
+        <img height="auto" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗩𝘂𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <img height="auto" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -54,33 +54,33 @@ if __name__ == '__main__':
       </td>
       <td width="25%" align="center">
         <span>Css</span><br><br><br>
-        <img height="64px" src="https://www.svgrepo.com/show/373535/css.svg">
+        <img height="auto" src="https://www.svgrepo.com/show/373535/css.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <img height="auto" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <img height="auto" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span>Docker</span><br><br><br>
-        <img height="64px" src="https://www.svgrepo.com/show/373553/docker.svg">
+        <img height="auto" src="https://www.svgrepo.com/show/373553/docker.svg">
       </td>
       <td width="25%" align="center">
         <span>Bash</span><br><br><br>
-        <img height="64px" src="https://www.svgrepo.com/show/353478/bash-icon.svg">
+        <img height="auto" src="https://www.svgrepo.com/show/353478/bash-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+        <img height="auto" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>Python</span><br><br><br>
-        <img height="64px" src="https://www.svgrepo.com/show/354238/python.svg">
+        <img height="auto" src="https://www.svgrepo.com/show/354238/python.svg">
       </td>
     </tr>
   </tbody>

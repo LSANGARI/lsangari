@@ -37,8 +37,8 @@ if __name__ == '__main__':
         <img height="64px" src="https://www.svgrepo.com/show/353985/laravel.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <span>Bootstrap</span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗩𝘂𝗲</span><br><br><br>

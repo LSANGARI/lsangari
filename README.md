@@ -34,7 +34,7 @@ if __name__ == '__main__':
     </header?
 
 <table >
-  <tbody align="center>
+  <tbody >
     <tr valign="top">
       <td width="25%" align="center">
         <span>PHP</span><br><br><br>

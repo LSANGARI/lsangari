@@ -50,7 +50,7 @@ if __name__ == '__main__':
     <tr valign="top">
       <td width="25%" align="center">
         <span>HTML</span><br><br><br>
-        <img height="64px" src="https://www.svgrepo.com/show/373669/html.svg">
+        <img height="auto" src="https://www.svgrepo.com/show/373669/html.svg">
       </td>
       <td width="25%" align="center">
         <span>Css</span><br><br><br>

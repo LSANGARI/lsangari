@@ -33,7 +33,7 @@ if __name__ == '__main__':
         }    
     </header?
 
-<table >
+<table class="center">
   <tbody >
     <tr valign="top">
       <td width="25%" align="center">

@@ -25,6 +25,7 @@ class LSangari:
 if __name__ == '__main__':
     yo = LSangari()
 
+<center>
 <table>
   <tbody>
     <tr valign="top">
@@ -77,12 +78,13 @@ if __name__ == '__main__':
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/354238/python.svg">
       </td>
     </tr>
   </tbody>
 </table>
+</center>
 
 
 <!--
